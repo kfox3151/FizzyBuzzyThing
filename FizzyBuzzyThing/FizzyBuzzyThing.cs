@@ -4,7 +4,7 @@ namespace FizzyBuzzyThing
 {
     class FizzyBuzzyThing
     {
-        static void Main(string[] args)
+        static void Main()
         {         
             {
                 int daNumba = 1;
